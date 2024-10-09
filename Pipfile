@@ -10,6 +10,11 @@ mypy = "*"
 flake8 = "*"
 pytest = "*"
 flake8-pyproject = "*"
+build = "*"
+sphinx = "*"
+sphinx-rtd-theme = "*"
+twine = "*"
+pre-commit = "*"
 
 [requires]
 python_version = "3.11"
